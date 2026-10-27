@@ -1,0 +1,26 @@
+# Kredensial, TIDAK BOLEH ter-commit
+.env
+.env.local
+
+# Keluaran log, bukan kode
+logs/
+
+# Binary hasil kompilasi
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# File hasil test
+*.test
+*.out
+
+# Folder vendor
+vendor/
+
+# Editor dan OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
